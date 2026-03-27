@@ -1,0 +1,4 @@
+C:\Users\WyrloLerios\Downloads\MauiScreenRecorder\obj\Debug\net8.0-android\MauiScreenRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WyrloLerios\Downloads\MauiScreenRecorder\obj\Debug\net8.0-android\MauiScreenRecorder.AssemblyInfoInputs.cache
+C:\Users\WyrloLerios\Downloads\MauiScreenRecorder\obj\Debug\net8.0-android\MauiScreenRecorder.AssemblyInfo.cs
+C:\Users\WyrloLerios\Downloads\MauiScreenRecorder\obj\Debug\net8.0-android\MauiScreenRecorder.csproj.CoreCompileInputs.cache
